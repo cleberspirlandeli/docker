@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e66a5fc8-80ad-447d-8aaf-30d62bc528be": {
+      "ProjectGuid": "e66a5fc8-80ad-447d-8aaf-30d62bc528be",
+      "DisplayName": "DockerMaster.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
