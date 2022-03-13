@@ -20,6 +20,8 @@ docker build -t nomeImagem:tagImagem . <br>
 <br>
 
 ### - VOLUMES
+docker volume ls <br>
+
 docker run -d -p 3000:80 --name nomeContainer -v nomeVolume:/data nomeImagem:tagImagem <br> 
 
 docker run -d -p 3000:80 --name nomeContainer -v D:\Estudos\Docker\src\DockerMaster.API\docs\:/app volumes:test <br>
